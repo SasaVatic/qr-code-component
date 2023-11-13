@@ -9,7 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -30,6 +29,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://sasavatic.netlify.app/)
-- Twitter - [@yourusername](https://twitter.com/SaaV59345676)
+- Website - [Saša Vatić](https://sasavatic.netlify.app/)
+- Frontend Mentor - [@SasaVatic](https://www.frontendmentor.io/profile/SasaVatic)
+- Twitter - [@SaaV59345676](https://twitter.com/SaaV59345676)

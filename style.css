@@ -68,6 +68,7 @@ img {
   padding-inline: 1.75rem;
 }
 
+.attribution > a,
 .attribution > a:visited {
   color: var(--clr-link);
 }
